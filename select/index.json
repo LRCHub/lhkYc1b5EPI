@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "エジソン",
+  "base_artist": "WEDNESDAY CAMPANELLA",
+  "createdAt": "2025-12-04T07:00:00.633896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エジソン - Edison",
+      "artist": "WEDNESDAY CAMPANELLA",
+      "has_synced": true,
+      "path": "select/01_エジソン_-_Edison_WEDNESDAY_CAMPANELLA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Edison [エジソン]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/02_Edison_[エジソン]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エジソン - Edison",
+      "artist": "WEDNESDAY CAMPANELLA",
+      "has_synced": true,
+      "path": "select/03_エジソン_-_Edison_WEDNESDAY_CAMPANELLA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エジソン",
+      "artist": "WEDNESDAY CAMPANELLA",
+      "has_synced": true,
+      "path": "select/04_エジソン_WEDNESDAY_CAMPANELLA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エジソン",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_01_エジソン_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "エジソン",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_02_エジソン_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "エジソン",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_03_エジソン_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "エジソン",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_04_エジソン_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Edison",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_05_Edison_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "エジソン",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_06_エジソン_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "エジソン",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_07_エジソン_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "エジソン",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_08_エジソン_水曜日のカンパネラ.txt"
+    }
+  ]
+}
